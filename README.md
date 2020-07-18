@@ -1,6 +1,7 @@
 # Myk's guide in setting up Dungeons and Dragons game 
 
 session zero survey https://ideaboardz.com/for/DND%20Session%20ZERO/3291518
+
 what is your favorite setting / world / time
 - Game of Thrones
 - Harry Potter
