@@ -49,7 +49,7 @@ character creation guide
 1. why did your character start looking for "a life of adventure"? 
 2. Your character is really good at doing ______ and really bad at ______.
 3. if your character can change anything in his past, what would it be?
-4. tell me a time you went out of your way to help somebody?
+4. Describe your character's typical outfit / getup 
 5. what does your character want more than anything?
 6. what would your character's friends say about him/ her?
 
