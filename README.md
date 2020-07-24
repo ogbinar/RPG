@@ -47,6 +47,7 @@ house rules
 - any things you'd like to try needs to be based on official reference unless otherwise agreed with the DM
 
 session 0 - "you are on the way to meet someone to discuss about a job...."
+Lost Mines of Phandelver - 5e fantasy forgotten realms (Lv1)
 
 character creation guide
 1. why did your character start looking for "a life of adventure"? 
