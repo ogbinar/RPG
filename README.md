@@ -2,7 +2,7 @@
 
 session zero survey https://trello.com/b/2xqBKhQX/gox-dnd-sesh-zero
 
-what is your favorite setting / world / time
+what is your favorite setting / world / time (THEMES/ SETTINGS TO INCORPORATE INTO THE GAME)
 - Game of Thrones
 - Harry Potter
 - Back to the Future
@@ -10,7 +10,7 @@ what is your favorite setting / world / time
 - Zombieland
 - Present day
 
-character - who is your favorite hero?
+character - who is your favorite hero? (HOW TO PUT SPOTLIGHT TO THEIR HEROES)
 - The Doctor (Doctor Who)
 - Link (Legend of Zelda)
 - Hanna Montana (Disney)
@@ -18,7 +18,7 @@ character - who is your favorite hero?
 - Black Widow (Avengers)
 - Jim Raynor (Starcraft)
 
-villain - who is your favoriate villain?
+villain - who is your favoriate villain? (HOW TO RUN YOUR VILLAINS)
 - rita repulsa (Power Rangers)
 - Terminator (Terminator)
 - lots of gremlins (The Gremlins)
@@ -26,7 +26,7 @@ villain - who is your favoriate villain?
 - Joker (Batman)
 - Darth Vader (Star Wars)
 
-activity - What events / activities do you enjoy the most?
+activity - What events / activities do you enjoy the most? (KEY ACTIVITIES TO SEED)
 - Sherlock Holmes (investigation / exploring)
 - Ghost Fighter (combat / fighting)
 - Desperate Housewives (romance / social / politics)
