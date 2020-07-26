@@ -94,7 +94,7 @@ http://5thsrd.org/
 https://5e.d20srd.org/
 
 player tips!
-- standard array
+- standard array [15, 14, 13, 12, 10, 8]
 - no evil
 - players manage initiative
 - all talk is ic unless stated
