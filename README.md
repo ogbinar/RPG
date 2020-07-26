@@ -53,8 +53,8 @@ session 0
 
 In some tavern within Neverwinter.
 
-human warrior escort - Sildar Hallwinter
-Gundren Rockseeker - Dwarf (of the rockerseeker brothers)
+* human warrior escort - Sildar Hallwinter
+* Gundren Rockseeker - Dwarf (of the rockerseeker brothers)
 
 looking for bodyguards for hire for a supply wagon to Phandalin (a town south east of neverwinter).
 
