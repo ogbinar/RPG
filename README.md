@@ -51,14 +51,30 @@ session 0
 - something happens
 - Gundrin (how are you related to him? roll d20)
 
+In some tavern within Neverwinter.
+
+human warrior escort - Sildar Hallwinter
+Gundren Rockseeker - Dwarf (of the rockerseeker brothers)
+
+looking for bodyguards for hire for a supply wagon to Phandalin (a town south east of neverwinter).
+
+<Proceed with interview>
+
+You will be paid 10Gold per person once delivered to Barthen's Provisions (a trading shop in Phandalin)
+
+questions?
+
+Sildar and Gundren indicate that they will go on ahead and give details on where to find the wagon once it is ready for departure.
+
+<show video> https://www.youtube.com/watch?time_continue=169&v=dc4HLnVfR84&disable_polymer=true
+ 
+
 Lost Mines of Phandelver - 5e fantasy forgotten realms (Lv1)
 DM Reference:
 https://docs.google.com/document/d/12Ogmo-FOiorYm1IxX75WUflH7azKJG0_GAW0aKbpofY/edit
 https://gamenightblog.com/lost-mine-phandelver-campaign-resources/
 https://slyflourish.com/running_phandelver.html
 https://www.youtube.com/watch?v=hgNRe76o4_8
-
-watch after interview: https://www.youtube.com/watch?time_continue=169&v=dc4HLnVfR84&disable_polymer=true
 
 character creation guide (interview questions)
 1. what did your character do before and why are they "looking for new work"?
