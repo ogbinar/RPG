@@ -1,6 +1,6 @@
 # Myk's guide in setting up Dungeons and Dragons game 
 
-session zero survey https://ideaboardz.com/for/DND%20Session%20ZERO/3291518
+session zero survey https://trello.com/b/2xqBKhQX/gox-dnd-sesh-zero
 
 what is your favorite setting / world / time
 - Game of Thrones
@@ -46,16 +46,29 @@ house rules
 - be prepared ie. drinks, foods
 - any things you'd like to try needs to be based on official reference unless otherwise agreed with the DM
 
-session 0 - "you are on the way to meet someone to discuss about a job...."
-Lost Mines of Phandelver - 5e fantasy forgotten realms (Lv1)
+session 0
+- "you are on the way to meet someone to discuss about a job...."
+- something happens
+- Gundrin (how are you related to him? roll d20)
 
-character creation guide
-1. why did your character start looking for "a life of adventure"? 
+Lost Mines of Phandelver - 5e fantasy forgotten realms (Lv1)
+DM Reference:
+https://docs.google.com/document/d/12Ogmo-FOiorYm1IxX75WUflH7azKJG0_GAW0aKbpofY/edit
+https://gamenightblog.com/lost-mine-phandelver-campaign-resources/
+https://slyflourish.com/running_phandelver.html
+https://www.youtube.com/watch?v=hgNRe76o4_8
+
+watch after interview: https://www.youtube.com/watch?time_continue=169&v=dc4HLnVfR84&disable_polymer=true
+
+character creation guide (interview questions)
+1. what did your character do before and why are they "looking for new work"?
 2. Your character is really good at doing ______ and really bad at ______.
-3. if your character can change anything in his past, what would it be?
-4. Your character is out to get the job done - what does he / she wear?
-5. what does your character want more than anything?
-6. what would your character's friends say about him/ her? (bonus: you can ask another PC for a memory about you)
+3. Your character is out to get the job done - what does he / she wear?
+4. if your character can change anything in his past, what would it be?
+5. what would your character's friends say about him/ her? (bonus: you can ask another PC for a memory about you - roll d20 for relationship)
+6. what does your character want more than anything?
+
+RELATIONSHIP: https://slyflourish.com/fiasco_relationships.html
 
 SHEET 5e - https://media.wizards.com/2016/dnd/downloads/5E_CharacterSheet_Fillable.pdf
 STEPS https://docs.google.com/document/d/1CzWlKcN4pFQFuYIJke0OcRDY6nlV8b204HVncszF3Wk/edit
@@ -78,6 +91,7 @@ Tools
 - Discord - Voice Chat
 - Roll20 - Virtual Table Top
 - OBS for streaming
+- ADJUST ENCOUNTERS: http://haluz.org/lmop/
 
 - Reference links: 
 -- https://docs.google.com/document/d/1lV1df4kkd2_-j85lVbtc6XG0W5vDTQe273rYGkqyJ2A/edit
