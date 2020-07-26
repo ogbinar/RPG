@@ -55,7 +55,7 @@ character creation guide
 3. if your character can change anything in his past, what would it be?
 4. Your character is out to get the job done - what does he / she wear?
 5. what does your character want more than anything?
-6. what would your character's friends say about him/ her?
+6. what would your character's friends say about him/ her? (bonus: you can ask another PC for a memory about you)
 
 player tips!
 - standard array
