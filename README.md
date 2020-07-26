@@ -92,10 +92,11 @@ Tools
 - Roll20 - Virtual Table Top
 - OBS for streaming
 - ADJUST ENCOUNTERS: http://haluz.org/lmop/
+- DM screen http://ceryliae.github.io/5edmscreen/index#Combat
 
 - Reference links: 
--- https://docs.google.com/document/d/1lV1df4kkd2_-j85lVbtc6XG0W5vDTQe273rYGkqyJ2A/edit
--- https://www.reddit.com/r/DnD/comments/7nq65f/massive_dms_toolkit_5e_resources/
--- https://paper.dropbox.com/doc/Cyanomys-Guide-To-Playing-RPGs-Online-v2.1.0--A39C6V~EvBII~TJMD0zkg9pSAg-Ef83ststlhPqW0LELrgye
--- https://www.reddit.com/r/DnD/comments/2n6394/so_you_want_to_dm_advice_for_new_players/
--- https://www.youtube.com/watch?v=zTD2RZz6mlo
+https://docs.google.com/document/d/1lV1df4kkd2_-j85lVbtc6XG0W5vDTQe273rYGkqyJ2A/edit
+https://www.reddit.com/r/DnD/comments/7nq65f/massive_dms_toolkit_5e_resources/
+https://paper.dropbox.com/doc/Cyanomys-Guide-To-Playing-RPGs-Online-v2.1.0--A39C6V~EvBII~TJMD0zkg9pSAg-Ef83ststlhPqW0LELrgye
+https://www.reddit.com/r/DnD/comments/2n6394/so_you_want_to_dm_advice_for_new_players/
+https://www.youtube.com/watch?v=zTD2RZz6mlo
