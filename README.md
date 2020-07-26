@@ -57,6 +57,13 @@ character creation guide
 5. what does your character want more than anything?
 6. what would your character's friends say about him/ her? (bonus: you can ask another PC for a memory about you)
 
+SHEET 5e - https://media.wizards.com/2016/dnd/downloads/5E_CharacterSheet_Fillable.pdf
+STEPS https://docs.google.com/document/d/1CzWlKcN4pFQFuYIJke0OcRDY6nlV8b204HVncszF3Wk/edit
+REFERENCE
+https://app.roll20.net/compendium/dnd5e/BookIndex
+http://5thsrd.org/
+https://5e.d20srd.org/
+
 player tips!
 - standard array
 - no evil
