@@ -116,3 +116,4 @@ Tools
 * https://paper.dropbox.com/doc/Cyanomys-Guide-To-Playing-RPGs-Online-v2.1.0--A39C6V~EvBII~TJMD0zkg9pSAg-Ef83ststlhPqW0LELrgye
 * https://www.reddit.com/r/DnD/comments/2n6394/so_you_want_to_dm_advice_for_new_players/
 * https://www.youtube.com/watch?v=zTD2RZz6mlo
+* https://drive.google.com/drive/folders/0BwCtO5aw9n2LRl9CekVsZjJUd1k
