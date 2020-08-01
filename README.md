@@ -45,6 +45,7 @@ house rules
 - if in doubt, ask first!
 - be prepared ie. drinks, foods
 - any things you'd like to try needs to be based on official reference unless otherwise agreed with the DM
+- https://www.dndbeyond.com/essentials
 
 session 0
 - "you are on the way to meet someone to discuss about a job...."
@@ -87,6 +88,7 @@ character creation guide (interview questions)
 RELATIONSHIP: https://slyflourish.com/fiasco_relationships.html
 
 SHEET 5e - https://media.wizards.com/2016/dnd/downloads/5E_CharacterSheet_Fillable.pdf
+races and classes - https://drive.google.com/file/d/1wV-KWE3e9jDXFUWCSDfVmc708QTU1fPl/view
 STEPS https://docs.google.com/document/d/1CzWlKcN4pFQFuYIJke0OcRDY6nlV8b204HVncszF3Wk/edit
 REFERENCE
 https://app.roll20.net/compendium/dnd5e/BookIndex
@@ -117,3 +119,5 @@ Tools
 * https://www.reddit.com/r/DnD/comments/2n6394/so_you_want_to_dm_advice_for_new_players/
 * https://www.youtube.com/watch?v=zTD2RZz6mlo
 * https://drive.google.com/drive/folders/0BwCtO5aw9n2LRl9CekVsZjJUd1k
+* https://olddungeonmaster.com/category/playing-aids/
+* https://mageproductions.com/5-dm-resources-for-dd-5e-ready-to-print-play-today/
