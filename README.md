@@ -111,6 +111,7 @@ Tools
 - OBS for streaming
 - ADJUST ENCOUNTERS: http://haluz.org/lmop/
 - DM screen http://ceryliae.github.io/5edmscreen/index#Combat
+- music - https://www.reddit.com/r/DnD/comments/d12q2x/112_spotify_playlists_to_run_your_game/
 
 - Reference links: 
 * https://docs.google.com/document/d/1lV1df4kkd2_-j85lVbtc6XG0W5vDTQe273rYGkqyJ2A/edit
