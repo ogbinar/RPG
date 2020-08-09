@@ -112,6 +112,14 @@ Tools
 - ADJUST ENCOUNTERS: http://haluz.org/lmop/
 - DM screen http://ceryliae.github.io/5edmscreen/index#Combat
 - music - https://www.reddit.com/r/DnD/comments/d12q2x/112_spotify_playlists_to_run_your_game/
+https://www.youtube.com/playlist?list=PLYnIbp1vpAu7nPlqOPjnHTP_hSqZ5pQLO
+https://www.youtube.com/c/DerekBrandonFiechter/playlists
+https://www.youtube.com/c/asmrroomsofficial/playlists
+https://www.youtube.com/playlist?list=PLJxVXT_Rn0UJR3B_M0srFUlG1LxIIpQqh
+https://www.dnd-compendium.com/dm-resources/music-and-sound
+SIMPLE  - https://www.youtube.com/playlist?list=PLeyP1GxYjda4OMRDRKV0_1cNN93Lh9Z3m
+https://w2g.tv/rooms/fzl66hgg8g7c9c2blo?lang=en
+
 - voices https://www.youtube.com/watch?v=FVmAEezr6ao
 
 - Reference links: 
