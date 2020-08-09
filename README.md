@@ -1,4 +1,4 @@
-# Myk's guide in setting up Dungeons and Dragons game 
+# Myk's guide in setting up Dungeons and Dragons game  (lost mines of phandelver)
 
 session zero survey https://trello.com/b/2xqBKhQX/gox-dnd-sesh-zero
 
@@ -131,3 +131,4 @@ https://w2g.tv/rooms/fzl66hgg8g7c9c2blo?lang=en
 * https://drive.google.com/drive/folders/0BwCtO5aw9n2LRl9CekVsZjJUd1k
 * https://olddungeonmaster.com/category/playing-aids/
 * https://mageproductions.com/5-dm-resources-for-dd-5e-ready-to-print-play-today/
+* LMOP https://www.reddit.com/r/DMAcademy/comments/eopvy4/lmop_dms_guide_to_the_cragmaw_hideout_part_i/
